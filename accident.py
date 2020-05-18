@@ -21,7 +21,7 @@ from sklearn.svm import SVC
 '''
 5/7/2020 
 Having a difficult time increasing the accuracy. Despite using binning on the continuous/numerical values, the accuracy
-tends to stay in the upper 60's to 70. I'll try to add the city and county in which the accidents occurred into see if that
+tends to stay in the upper 60's. I'll try to add the city and county in which the accidents occurred into see if that
 changes anything. 
 Next step after increasing the accuracy is to clean up the code and remove redundancy; then comes the visualizations.
 '''
